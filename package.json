@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "axe-webdriverjs": "^2.0.1",
+    "selenium-webdriver": "^3.6.0"
+  }
+}
